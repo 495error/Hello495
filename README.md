@@ -1,2 +1,8 @@
 # Hello495
-:D
+
+#include <iostream>
+int main()
+{
+  cout << "Hello 495 :D!" << endl;
+  return 0;
+}
